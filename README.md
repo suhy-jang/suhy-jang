@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on JavaScript, React and Node Project
+- 👯 I’m looking to collaborate on Full-stack Project with React.js and Node.js.
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/suhy_jang), [Linkedin](https://www.linkedin.com/in/shjang/)
 - 😄 Pronouns: She/Her
